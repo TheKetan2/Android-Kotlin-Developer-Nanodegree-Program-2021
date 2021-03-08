@@ -2,7 +2,6 @@
 <resources>
 
     <style name="NameStyle">
-        <item name="android:layout_margin">@dimen/margin</item>
         <item name="android:fontFamily">sans-serif</item>
         <item name="android:paddingTop">@dimen/paddingTop</item>
         <item name="android:paddingBottom">@dimen/paddingBottom</item>
