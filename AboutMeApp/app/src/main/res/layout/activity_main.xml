@@ -4,19 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/text_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="@dimen/margin"
-        android:fontFamily="sans-serif"
-        android:paddingTop="@dimen/paddingTop"
-        android:paddingBottom="@dimen/paddingBottom"
         android:text="@string/name"
         android:textAlignment="center"
-        android:textSize="@dimen/text_size"
-        android:textStyle="bold" />
+        style="@style/NameStyle" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/yello_star"
+        app:srcCompat="@android:drawable/btn_star_big_on" />
 
 </LinearLayout>
