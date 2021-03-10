@@ -15,15 +15,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-//        val boxone:TextView = findViewById(R.id.box_one)
-//        val boxtwo:TextView = findViewById(R.id.box_two)
-//        val boxthree:TextView = findViewById(R.id.box_three)
-//        val boxfour:TextView = findViewById(R.id.box_four)
-//        val boxfive:TextView = findViewById(R.id.box_five)
-//        val btnRed: Button = findViewById(R.id.button_red)
-//        val btnYellow: Button = findViewById(R.id.button_yellow)
-//        val btnGreen: Button = findViewById(R.id.button_green)
-//        val constraintLayout:ConstraintLayout = findViewById(R.id.constraintLayout)
         val clickableViews: List<View> = listOf(binding.boxOne, binding.boxTwo, binding.boxThree, binding.boxFour,
             binding.boxFive, binding.constraintLayout, binding.buttonRed, binding.buttonGreen, binding.buttonYellow)
         setListener(clickableViews)
