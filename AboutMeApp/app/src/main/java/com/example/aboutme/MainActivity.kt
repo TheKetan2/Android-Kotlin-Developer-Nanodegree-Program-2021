@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         binding.button.setOnClickListener {
             addNickName(it)
         }
-
     }
     private fun addNickName(view: View){
         binding.apply {
@@ -35,10 +34,8 @@ class MainActivity : AppCompatActivity() {
             button.visibility = View.GONE
             nickNameText.visibility = View.VISIBLE
         }
-
         // following two lines are used to hide keyboard
         val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
         imm.hideSoftInputFromWindow(view.windowToken, 0)
-
     }
 }
