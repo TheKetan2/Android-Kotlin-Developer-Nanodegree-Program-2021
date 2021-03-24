@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9d03f38-493f-4cde-b32d-33c0b4b05aa4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/androidTest/java/com/example/aboutme/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/java/com/example/aboutme/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/java/com/example/aboutme/MyName.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/font/roboto_mono_thin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/app/src/test/java/com/example/aboutme/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AboutMeApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/java/com/example/myapplication/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/values/style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/screenshots/screen.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyView/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/androidTest/java/com/example/diceroller/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/java/com/example/diceroller/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/dice_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/dice_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/dice_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/dice_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/dice_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/dice_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/empty_dice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/app/src/test/java/com/example/diceroller/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dice Roller/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/navEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/androidTest/java/com/example/triviaapp/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/AboutFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/GameFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/RulesFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/android/navigation/TitleFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/AboutFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/GameFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/GameOverFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/GameWonFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/RulesFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/java/com/example/triviaapp/TitleFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/anim/fade_in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/anim/fade_out.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/anim/slide_in_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/anim/slide_in_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/anim/slide_out_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/anim/slide_out_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/about_android_trivia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/android_category_simple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/android_trivia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/nav_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/trivia_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/try_again.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/drawable/you_win.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/fragment_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/fragment_game.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/fragment_game_over.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/fragment_game_won.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/fragment_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/fragment_title.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/nav_header.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/layout/placeholder_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/menu/navdrawer_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/menu/overflow_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/menu/winner_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/navigation/navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/app/src/test/java/com/example/triviaapp/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/screenshots/screen_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/screenshots/screen_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TriviaApp/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qBW5fuEphgaZxquQQPThazDgiU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../android-kotlin-fundamentals-starter-apps-master/GuessTheWord-Starter" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9d03f38-493f-4cde-b32d-33c0b4b05aa4" name="Default Changelist" comment="" />
+      <created>1616553283516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616553283516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="126" key="FileChooserDialogImpl" timestamp="1616554772562">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="804" y="126" key="FileChooserDialogImpl/0.0.1366.736@0.0.1366.736" timestamp="1616554772562" />
+  </component>
+</project>
