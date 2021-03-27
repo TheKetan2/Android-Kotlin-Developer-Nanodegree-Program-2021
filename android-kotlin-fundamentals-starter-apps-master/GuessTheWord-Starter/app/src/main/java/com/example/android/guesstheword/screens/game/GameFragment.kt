@@ -71,12 +71,21 @@ class GameFragment : Fragment() {
         viewModal.word.observe(viewLifecycleOwner, Observer { newWord ->
             binding.wordText.text = newWord.toString()
         })
+
+
+        viewModal.eventGameFinish.observe(viewLifecycleOwner, Observer {hasFinished ->
+            if(hasFinished){
+                gameFinished()
+                viewModal.onGameFinishedCompleted()
+            }
+        })
         return binding.root
 
     }
 
     private fun gameFinished(){
         val action = GameFragmentDirections.actionGameToScore()
+        val currentScore = viewModal.score.value?:0
         action.setScore(viewModal.score.value?:0)
         findNavController().navigate(action)
     }
