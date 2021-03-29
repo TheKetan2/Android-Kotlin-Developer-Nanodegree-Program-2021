@@ -17,15 +17,17 @@
 package com.example.android.guesstheword.screens.game
 
 import android.os.Bundle
+import android.os.VibrationEffect
+import android.os.Vibrator
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.content.getSystemService
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
 import androidx.navigation.fragment.findNavController
 import com.example.android.guesstheword.R
 import com.example.android.guesstheword.databinding.GameFragmentBinding
@@ -53,28 +55,25 @@ class GameFragment : Fragment() {
                 false
         )
 
-        Log.i("GameFragment", "Game Fragment Created!" )
+        Log.i("GameFragment", "Game Fragment Created!")
         viewModal = ViewModelProvider(this).get(GameViewModal::class.java)
 
+        binding.gameViewModel = viewModal
+        binding.lifecycleOwner = this
+//        viewModal.score.observe(viewLifecycleOwner, Observer { newScore ->
+//            binding.scoreText.text = newScore.toString()
+//        })
 
-        binding.correctButton.setOnClickListener {
-            viewModal.onCorrect()
-        }
-        binding.skipButton.setOnClickListener {
-            viewModal.onSkip()
-        }
+//        viewModal.word.observe(viewLifecycleOwner, Observer { newWord ->
+//            binding.wordText.text = newWord.toString()
+//        })
+//
+//        viewModal.currentTime.observe(viewLifecycleOwner, Observer { newTime ->
+//            binding.timerText.text = DateUtils.formatElapsedTime(newTime)
+//        })
 
-        viewModal.score.observe(viewLifecycleOwner, Observer { newScore ->
-            binding.scoreText.text = newScore.toString()
-        })
-
-        viewModal.word.observe(viewLifecycleOwner, Observer { newWord ->
-            binding.wordText.text = newWord.toString()
-        })
-
-
-        viewModal.eventGameFinish.observe(viewLifecycleOwner, Observer {hasFinished ->
-            if(hasFinished){
+        viewModal.eventGameFinish.observe(viewLifecycleOwner, Observer { hasFinished ->
+            if (hasFinished) {
                 gameFinished()
                 viewModal.onGameFinishedCompleted()
             }
@@ -83,21 +82,13 @@ class GameFragment : Fragment() {
 
     }
 
-    private fun gameFinished(){
+    private fun gameFinished() {
         val action = GameFragmentDirections.actionGameToScore()
-        val currentScore = viewModal.score.value?:0
-        action.setScore(viewModal.score.value?:0)
+        val currentScore = viewModal.score.value ?: 0
+        action.score = currentScore
         findNavController().navigate(action)
     }
 
 
-    /** Methods for updating the UI **/
 
-//    private fun updateWordText() {
-//        binding.wordText.text = viewModal.word.value?:""
-//    }
-
-//    private fun updateScoreText() {
-//        binding.scoreText.text = viewModal.score.toString()
-//    }
 }
