@@ -2,4 +2,5 @@
     <string name="app_name">ColorMeApp</string>
     <string name="box_one">Box One</string>
     <string name="box_two">Box Two</string>
+    <string name="how_to_play">How to play:</string>
 </resources>
